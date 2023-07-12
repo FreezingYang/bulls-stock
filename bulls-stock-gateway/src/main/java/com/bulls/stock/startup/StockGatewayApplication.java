@@ -9,7 +9,9 @@ import org.springframework.context.annotation.ComponentScan;
 @EnableDiscoveryClient
 @ComponentScan(basePackages = {"com.bulls.stock"})
 public class StockGatewayApplication {
+
     public static void main(String[] args) {
         SpringApplication.run(StockGatewayApplication.class, args);
     }
+
 }
