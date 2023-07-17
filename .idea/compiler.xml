@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="bulls-stock-user" />
         <module name="bulls-stock-gateway" />
+        <module name="cat-demo" />
       </profile>
     </annotationProcessing>
   </component>
