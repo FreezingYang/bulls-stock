@@ -15,12 +15,8 @@
         <module>cat-demo-gateway</module>
         <module>cat-demo-account</module>
         <module>cat-demo-order</module>
+        <module>cat-demo-stock</module>
     </modules>
-
-    <properties>
-        <maven.compiler.source>11</maven.compiler.source>
-        <maven.compiler.target>11</maven.compiler.target>
-    </properties>
 
     <dependencies>
         <!-- spring boot 依赖 -->

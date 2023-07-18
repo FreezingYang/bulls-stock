@@ -1,8 +1,8 @@
 server:
-  port: 8081
+  port: 8084
 spring:
   application:
-    name: cat-demo-gateway
+    name: cat-demo-stock
   cloud:
     nacos:
       discovery:
