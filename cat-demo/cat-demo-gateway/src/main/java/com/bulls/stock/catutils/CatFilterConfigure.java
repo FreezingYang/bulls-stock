@@ -1,4 +1,4 @@
-package com.bull.stock.catutils;
+package com.bulls.stock.catutils;
 
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;

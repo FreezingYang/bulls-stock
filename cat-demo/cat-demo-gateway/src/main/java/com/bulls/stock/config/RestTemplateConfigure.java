@@ -1,6 +1,6 @@
-package com.bull.stock.config;
+package com.bulls.stock.config;
 
-import com.bull.stock.catutils.CatRestInterceptor;
+import com.bulls.stock.catutils.CatRestInterceptor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.client.RestTemplate;

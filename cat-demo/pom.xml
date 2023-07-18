@@ -13,6 +13,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>cat-demo-gateway</module>
+        <module>cat-demo-account</module>
+        <module>cat-demo-order</module>
     </modules>
 
     <properties>

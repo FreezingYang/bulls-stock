@@ -1,4 +1,4 @@
-package com.bull.stock.catutils;
+package com.bulls.stock.catutils;
 
 import com.dianping.cat.Cat;
 import com.dianping.cat.CatConstants;

@@ -1,4 +1,4 @@
-package com.bull.stock.controller;
+package com.bulls.stock.controller;
 
 import com.dianping.cat.Cat;
 import com.dianping.cat.CatConstants;
@@ -15,6 +15,7 @@ public class TestController {
     @Autowired
     private RestTemplate restTemplate;
 
+//    指向订单服务的接口
     @Value("${service2.address:localhost:8082}")
     private String serviceAddress;
 

@@ -1,4 +1,4 @@
-package com.bull.stock.catutils;
+package com.bulls.stock.catutils;
 
 public class CatHttpConstants {
     public static final String CAT_HTTP_HEADER_CHILD_MESSAGE_ID = "X-CAT-CHILD-ID";
