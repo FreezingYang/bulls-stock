@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cat-demo-gateway" />
+        <module name="hateoas-order" />
+        <module name="hateoas-stock" />
         <module name="bulls-stock-user" />
         <module name="cat-demo-account" />
         <module name="cat-demo-stock" />
